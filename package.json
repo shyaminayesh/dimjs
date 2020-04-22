@@ -2,7 +2,7 @@
 	"name": "dimjs",
 	"version": "1.0.0",
 	"description": "A simple JS wrapper for Dialog IdeaMart APIs.",
-	"main": "lib/dimjs",
+	"main": "lib/IdeaMart",
 	"author": "Shyamin Ayesh",
 	"license": "MIT",
 	"repository": "github:shyaminayesh/dimjs",
